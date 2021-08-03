@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陳毓婷</title>
+    <link>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/</link>
+    <description>Recent content on 陳毓婷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language><atom:link href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聯繫方式</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/contact/</guid>
+      <description> 若有任何疑問，歡迎透過下方管道聯繫我。
+ email me: (dolloct20@gmail.com) contact me on LinkedIn  </description>
+    </item>
+    
+    <item>
+      <title>陳毓婷</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/about/</guid>
+      <description>簡介  我是陳毓婷，畢業於政大華語文教學碩士學程，具有「社會科學+語言教學+程式語言」的學習背景，個性直接外向，喜歡突破舒適圈，樂於學習與挑戰不同領域的專業。
+ 碩士期間累積了許多的教學經驗，在教學過程中，逐漸發現語料庫與語言分析對於教學輔助的重要性，也深刻體會到科技與人文相輔相成，兩者必須相互搭配才能成功地將科技應用於教學的道理，因而啟發了我對於AI人工智慧的好奇，從零開始自學與旁聽語料處理、自然語言處理和計算語言學概論等相關課程，具備語料處理、詞性標記與分類器模型等的實作經驗，希望能夠將語言分析和語言教學的背景應用在AI領域。
+ contact me on LinkedIn   學歷 華語文教學碩士學位學程 國立政治大學  2018 年 9 月 – 2021 年 6 月  政治學系 國立政治大學  2013 年 9 月– 2017 年 6 月  旁聽課程  計算語言學概論 自然語言處理 語料處理   工作經歷 華語學校實習生 美國在台協會 2020年9月 – 2021年1月
+ 協助校正四冊教材的對話內容，以貼近真實語用情況 蒐集中國與臺灣的新聞文章、廣播節目與影片作為聽力與閱讀教材  華語實習教師 國立臺灣大學文學院國際華語研習所 (ICLP) 2019年6月 – 2019年8月
+ 分析與歸納語言知識和規則，以具體圖像化方式教學，使學生程度提升1個等級 挑選新聞報導作為教材，針對教材中的詞彙、語法與文化知識進行教學，並準備相關例句與練習活動  行政助理 中央研究院法律學研究所 2017年10月 – 2018年6月</description>
+    </item>
+    
+  </channel>
+</rss>

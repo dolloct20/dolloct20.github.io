@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yuting, Chen</title>
+    <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/</link>
+    <description>Recent content in Tags on Yuting, Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/dolloct20/dolloct20.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>development</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://github.com/dolloct20/dolloct20.github.io.git/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/dolloct20/dolloct20.github.io.git/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
