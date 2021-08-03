@@ -2,122 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/featuresofcoderportfolio.ja/</loc>
+    <loc>https://dolloct20.github.io/posts/featuresofcoderportfolio.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/featuresofcoderportfolio/</loc>
+    <loc>https://dolloct20.github.io/posts/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/</loc>
+    <loc>https://dolloct20.github.io/posts/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/theme-demo/</loc>
+    <loc>https://dolloct20.github.io/posts/theme-demo/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/</loc>
+    <loc>https://dolloct20.github.io/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/"
+                href="https://dolloct20.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/"
+                href="https://dolloct20.github.io/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/theme-demo.ja/</loc>
+    <loc>https://dolloct20.github.io/posts/theme-demo.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/creating-a-new-theme/</loc>
+    <loc>https://dolloct20.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/hugo-template-primer/</loc>
+    <loc>https://dolloct20.github.io/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/categories/"
-                />
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/</loc>
+    <loc>https://dolloct20.github.io/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/tags/"
+                href="https://dolloct20.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/tags/"
+                href="https://dolloct20.github.io/categories/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/templates/</loc>
+    <loc>https://dolloct20.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/tags/themes/</loc>
+    <loc>https://dolloct20.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/posts/migrate-from-jekyll/</loc>
+    <loc>https://dolloct20.github.io/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://dolloct20.github.io/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dolloct20.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://dolloct20.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dolloct20.github.io/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/about/</loc>
+    <loc>https://dolloct20.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/about/"
+                href="https://dolloct20.github.io/zh-tw/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/about/"
+                href="https://dolloct20.github.io/about/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/contact/</loc>
+    <loc>https://dolloct20.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/contact/"
+                href="https://dolloct20.github.io/zh-tw/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/contact/"
+                href="https://dolloct20.github.io/contact/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/projects/</loc>
+    <loc>https://dolloct20.github.io/projects/</loc>
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/projects/</loc>
+    <loc>https://dolloct20.github.io/projects/</loc>
   </url>
 </urlset>

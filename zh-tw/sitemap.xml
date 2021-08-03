@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/categories/</loc>
+    <loc>https://dolloct20.github.io/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/categories/"
+                href="https://dolloct20.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/categories/"
+                href="https://dolloct20.github.io/zh-tw/categories/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/tags/</loc>
+    <loc>https://dolloct20.github.io/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/tags/"
+                href="https://dolloct20.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/tags/"
+                href="https://dolloct20.github.io/zh-tw/tags/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/contact/</loc>
+    <loc>https://dolloct20.github.io/zh-tw/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/contact/"
+                href="https://dolloct20.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/contact/"
+                href="https://dolloct20.github.io/zh-tw/contact/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/</loc>
+    <loc>https://dolloct20.github.io/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/"
+                href="https://dolloct20.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/"
+                href="https://dolloct20.github.io/zh-tw/"
                 />
   </url><url>
-    <loc>https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/about/</loc>
+    <loc>https://dolloct20.github.io/zh-tw/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/about/"
+                href="https://dolloct20.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://github.com/dolloct20/dolloct20.github.io.git/zh-tw/about/"
+                href="https://dolloct20.github.io/zh-tw/about/"
                 />
   </url>
 </urlset>
