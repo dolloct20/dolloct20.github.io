@@ -114,12 +114,13 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Chen, Yuting</title>
+      <title>Chen, Yuting</title>
       <link>https://dolloct20.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dolloct20.github.io/about/</guid>
-      <description> Hi, I&amp;rsquo;m yuting.  </description>
+      <description>“A master degree in linguistic background, with professional training in language processing skillS using Python.”
+EDUCATION  Master of Teaching Chinese as a Second Language Sep 2018 – May 2021  National Cheng-Chi University, Taiwan Taken Chinese Linguistics, Syntactic Structure and Natural Language Processing courses  Bachelor of Political Science Sep 2013 –June 2017  National Cheng-Chi University, Taiwan  EXPERIENCE  Chinese language school intern American Institute in Taiwan September 2020 – January 2021</description>
     </item>
     
     <item>
@@ -128,7 +129,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dolloct20.github.io/contact/</guid>
-      <description> Have questions or suggestions?
+      <description> Have any questions or suggestions?
  Feel free to email me (dolloct20@gmail.com) or contact me on linkedin.  </description>
     </item>
     
